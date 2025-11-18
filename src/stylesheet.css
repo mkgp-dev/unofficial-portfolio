@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/playfair-display';
+@import '@fontsource-variable/roboto';
+
+@layer base {
+    @theme {
+        --font-sans: 'Roboto Variable', sans-serif;
+        --font-serif: 'Playfair Display Variable', serif;
+    }
+
+    html, body {
+        @apply scroll-smooth antialiased text-stone-950;
+    }
+}
