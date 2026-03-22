@@ -1,4 +1,8 @@
 # unofficial-portfolio
+
+> [!IMPORTANT]
+> This project is now **discontinued** because I am no longer interested in continuing its development. It remains as a reference for the lessons I learned from The Odin Project, and it will now serve as an archived repository.
+
 A simple Homepage project submitted for The Odin Project course.
 
 > [!NOTE]
